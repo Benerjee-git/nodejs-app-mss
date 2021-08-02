@@ -28,11 +28,11 @@
     "type": "git",
     "url": "https://github.com/Benerjee-git/nodejs-app-mss.git"
   },
- /* "keywords": [
+  "keywords": [
     "node",
-    "NodeJS 16.6.0",
+    "node",
     "express"
   ],
   "author": "Mithun Reddy Lacchannagari",
-  "license": "MIT" */
+  "license": "MIT" 
 }
