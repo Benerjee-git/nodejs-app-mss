@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-
+sudo su
 
 echo 'The following "npm" command runs your Node.js application'
 
